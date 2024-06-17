@@ -1,0 +1,43 @@
+#EXTM3U 
+#EXTINF: -1 tvg-id="01" tvg-name="CANAL ABERTO" tvg-chno="01" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185984335.jpeg" group-title="Abertos", GLOBO
+http://xcui.vitvabc.xyz:8880/flu-laliu/fPfYtxYgWe/16729
+#EXTINF: -1 tvg-id="02" tvg-name="CANAL ABERTO" tvg-chno="02" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985718.jpeg" group-title="Abertos", RECORD-TV
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31555
+#EXTINF: -1 tvg-id="04" tvg-name="CANAL ABERTO" tvg-chno="04" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185985719.jpeg" group-title="Abertos", BAND
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/chunklist.m3u8
+#EXTINF: -1 tvg-id="06" tvg-name="CANAL ABERTO" tvg-chno="06" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6878978/1185986423.jpeg" group-title="Abertos", SBT
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+#EXTINF: -1 tvg-id="1" tvg-name="PREMIERE" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985460.png" group-title="PREMIERE", PREMIERE CLUBES FHD
+http://15.235.15.230:14020/
+#EXTINF: -1 tvg-id="2" tvg-name="PREMIERE" tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985665.jpeg" group-title="PREMIERE", PREMIERE 2
+https://brflu.walk-tv.com/5921/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="3" tvg-name="PREMIERE" tvg-chno="3" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985666.jpeg" group-title="PREMIERE", PREMIERE 3
+https://abc.embedmax.site/premiere3/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="4" tvg-name="PREMIERE" tvg-chno="4" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985668.png" group-title="PREMIERE", PREMIERE 4
+https://abc.embedmax.site/premiere4/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="5" tvg-name="PREMIERE" tvg-chno="5" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985689.png" group-title="PREMIERE", PREMIERE 5
+https://brflu.walk-tv.com/5916/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-id="6" tvg-name="PREMIERE" tvg-chno="6" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985690.jpeg" group-title="PREMIERE", PREMIERE 6
+http://xcui.vitvabc.xyz:8880/laok300/8pEZjdeMPad7/31543
+#EXTINF: -1 tvg-id="7" tvg-name="PREMIERE" tvg-chno="7" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879002/1185985692.jpeg" group-title="PREMIERE", PREMIERE 7
+https://brflu.walk-tv.com/5914/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879242/1186084124.jpeg" group-title="ESPN", ESPN
+http://xp2.hostinggonemoreso10.com:2082/Tourobox2-1eWW8CdoQ7/crhok9FK7Q/131
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879242/1186084127.png" group-title="ESPN", ESPN 2
+https://brflu.walk-tv.com/5910/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879242/1186084129.png" group-title="ESPN", ESPN 3
+https://cdn-3.nxplay.com.br/ESPN_3/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879242/1186084131.png" group-title="ESPN", ESPN 4
+https://cdn-3.nxplay.com.br/ESPN_4/index.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879242/1186084132.png" group-title="ESPN", ESPN 5
+http://xciptv.aplicativos.top:80/gabi4834/Bfh92928beb/118751
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879246/1186100500.png" group-title="SportTV", SPORTTV
+https://brflu.walk-tv.com/5932/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879246/1186100502.png" group-title="SportTV", SPORTTV 2
+https://abc.embedmax.site/sportv2/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6879246/1186100505.jpeg" group-title="SportTV", SPORTTV 3
+https://brflu.walk-tv.com/5930/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-name="CAZÉ TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6882086/1186580002.jpeg" group-title="CANAIS DE ESPORTE", CAZÉ TV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/b838f8b0-2b62-11ef-bf71-1b856d8ceab3/6882086/1186580003.jpeg" group-title="CANAIS DE ESPORTE", CANAL GOAT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
